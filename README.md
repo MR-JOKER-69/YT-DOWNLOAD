@@ -31,7 +31,7 @@ $ git clone https://github.com/MR-JOKER-69/YT-DOWNLOAD.git
 $ cd YT-DOWNLOAD
 $ bash install.sh
 
-[×] Do Youtube Video Share Termux. After Auto Open Termux And Choose Option Start Download Video..
-[×] Video Save as :> Youtube-Download-Joker
+[×] Do Youtube Video Share Termux. After Auto Open Termux And Choose Video Quality After Auto Download Video And Close Termux app...
+[×] Video Save as :> Youtube
 
 Note: This Tools Are Free, So You Use Free FILE-CLONE Tools Enjoy
